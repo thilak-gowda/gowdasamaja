@@ -5,6 +5,14 @@
         line-height: 47px;
     }
 
+    .logo-sec{
+        width: 100%;
+    }
+
+    .nv-link{
+        width: 20%;
+    }
+
     .spn-22 {
         color: #ffbd5e;
         font-size: 30px;
@@ -16,7 +24,9 @@
     }
 
     .logo {
-        width: 75%;
+        width: 35%;
+        display: block;
+        margin: 0% auto;
     }
 
     .spn-1 {

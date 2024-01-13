@@ -3,6 +3,14 @@ body {
     overflow-x: hidden !important;
 }
 
+.logo-sec{
+    width: 45%;
+}
+
+.nv-link{
+    width: 25%;
+}
+
 .cl-ml {
     left: 50%;
     transform: translate(-50%);
@@ -29,7 +37,7 @@ body {
 }
 
 .logo {
-    width: 25%;
+    width: 40%;
 }
 
 .bok-apoi {
@@ -172,7 +180,7 @@ body {
 
 .spn-22 {
     color: #ffbd5e;
-    font-size: 62px;
+    font-size: 55px;
     text-transform: uppercase;
     line-height: 10px;
 }
@@ -240,15 +248,14 @@ body {
 
 .spn-12 {
     color: white;
-    font-size: 40px;
+    font-size: 35px;
     padding-left: 15%;
     line-height: 105px;
 }
 
 .spn-121 {
     color: white;
-    font-size: 40px;
-    padding-left: 15%;
+    font-size: 35px;
     line-height: 105px;
     text-transform: uppercase;
 }
@@ -271,16 +278,16 @@ body {
     left: 0%;
 }
 
-.spn-121::before {
+/* .spn-121::before {
     content: "";
     display: block;
     width: 150px;
     height: 6px;
     background: #c46037;
     position: absolute;
-    top: 15%;
+    top: 10%;
     left: 2%;
-}
+} */
 
 .spn-122::before {
     content: "";
