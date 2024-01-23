@@ -46,6 +46,8 @@ body {
    
     font-size: 12px;
     padding: 3%;
+    text-decoration: none;
+    text-transform: uppercase;
     width: 50%;
     text-align: center;
     border-radius: 25px;
@@ -143,6 +145,17 @@ body {
 }
 
 .ul-content li {
+    content: '';
+    color: #c46037;
+    font-size: 25px;
+}
+
+.ul-content1 li span {
+    color: #fff;
+    font-size: 16px;
+}
+
+.ul-content1 li {
     content: '';
     color: #c46037;
     font-size: 25px;
