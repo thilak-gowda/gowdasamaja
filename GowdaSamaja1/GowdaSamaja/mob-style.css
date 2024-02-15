@@ -1,0 +1,162 @@
+@media only screen and (max-width:700px) {
+    .spn-2 {
+        color: #ffbd5e;
+        font-size: 30px;
+        line-height: 47px;
+    }
+
+    .logo-sec{
+        width: 100%;
+    }
+
+    .nv-link{
+        width: 45%;
+        margin-bottom: 2%;
+        
+    }
+
+    .spn-22 {
+        color: #ffbd5e;
+        font-size: 30px;
+        line-height: 47px;
+    }
+
+    .amen-abs {
+        font-size: 30px;
+    }
+
+    .logo {
+        width: 35%;
+        display: block;
+        margin: 0% auto;
+    }
+
+    .spn-1 {
+        color: white;
+        font-size: 18px;
+        line-height: 30px;
+        padding-left: 13%;
+    }
+
+    .spn-11 {
+        font-size: 18px;
+        line-height: 30px;
+        padding-left: 13%;
+    }
+
+    .footer-btn{
+        width: 35% !important;
+
+    }
+
+    .semicolon {
+        font-size: 30px !important;
+    }
+
+    .center-img{
+       
+            margin-top: 110%;
+            width: 100%;
+            width: 148%;
+        zoom: normal;
+        margin-left: -55%;
+    }
+
+    .spn-121, .spn-122{
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .ul-content1 li span {
+        color: #fff;
+        font-size: 12px;
+        line-height: 15px;
+    }
+
+    .ul-content1 li {
+        
+        line-height: 15px;
+    }
+
+    .spn-12 {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .bok-apoi {
+        width: 100%;
+    }
+
+    .bok-apoi {
+        font-size: 10px;
+    }
+
+    .spn-1:before {
+        content: "";
+        display: block;
+        width: 41px;
+        height: 4px;
+        background: #c46037;
+        position: absolute;
+        top: 16%;
+    }
+
+    .spn-11::before {
+        width: 41px;
+        height: 4px;
+        background: #c46037;
+        top: 2%;
+        left: 4%;
+    }
+
+    .spn-12::before {
+        width: 37px;
+        height: 4px;
+        top: 6%;
+        left: 5%;
+    }
+    .spn-122::before{
+        width: 37px;
+        height: 4px;
+        top: 5.5% !important;
+        left: 5%;
+    }
+    .spn-121:before {
+        width: 37px;
+        height: 4px;
+        top: 1.6%;
+        left: 6%;
+    }
+/* 
+    .spn-2::after {
+        content: " ";
+        display: block;
+        width: 54px;
+        height: 4px;
+        background: #c46037;
+        position: absolute;
+        top: 60%;
+        right: 2% !important;
+    } */
+
+    .center-img {
+        margin-top: 110%;
+    }
+
+    .enq-btn {
+        right: -13.5%;
+        font-size: 12px !important;
+    }
+
+    .amen-bg {
+        height: 15vh;
+    }
+
+    .amenities p {
+        font-size: 12px;
+    }
+    .ame-img {
+        width: 30%;
+    }
+}
+
